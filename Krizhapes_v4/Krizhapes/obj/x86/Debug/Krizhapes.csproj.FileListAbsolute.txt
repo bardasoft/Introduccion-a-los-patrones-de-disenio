@@ -1,0 +1,63 @@
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Krizhapes.exe
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Krizhapes.pdb
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.RibbonBar.dll
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.RibbonBar.pdb
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.RibbonBar.xml
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes.csprojResolveAssemblyReference.cache
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\obj\x86\Debug\MainWindow.baml
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\obj\x86\Debug\MainWindow.g.cs
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\obj\x86\Debug\App.g.cs
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes_MarkupCompile.cache
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes.g.resources
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes.Properties.Resources.resources
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes.csproj.GenerateResource.Cache
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes.exe
+C:\Users\HéctorUriel\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes.pdb
+C:\Users\hprez\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes.exe
+C:\Users\hprez\Dropbox\Conferencias\Software Guru Virtual 2013\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes.pdb
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes.exe
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes.pdb
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\Krizhapes.exe
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\Krizhapes.pdb
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.RibbonBar.pdb
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Controls.RibbonBar.xml
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes.csprojResolveAssemblyReference.cache
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\obj\x86\Debug\MainWindow.baml
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\obj\x86\Debug\MainWindow.g.cs
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\obj\x86\Debug\App.g.cs
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes_MarkupCompile.cache
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes.g.resources
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes.Properties.Resources.resources
+C:\Users\hprez\Documents\Conferencia JumpStart Chiapas\Krizhapes_v4\Krizhapes\obj\x86\Debug\Krizhapes.csproj.GenerateResource.Cache
